@@ -3,14 +3,14 @@
  *
  *   NewPoints plugin (/inc/languages/newpoints.lang.php)
  *	 Author: Pirata Nervo
- *   Copyright: © 2014 Pirata Nervo
+ *   Copyright: Â© 2014 Pirata Nervo
  *   
  *   Website: http://www.mybb-plugins.com
- *
+ *   
  *   NewPoints plugin for MyBB - A complex but efficient points system for MyBB.
  *
  ***************************************************************************/
- 
+ Traduzione di mybb-it.com
 /****************************************************************************
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
