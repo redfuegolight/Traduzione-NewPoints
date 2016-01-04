@@ -3,7 +3,7 @@
  *
  *   NewPoints plugin (/inc/languages/newpoints.lang.php)
  *	 Author: Pirata Nervo
- *   Copyright: © 2014 Pirata Nervo
+ *   Copyright: Â© 2014 Pirata Nervo
  *   
  *   Website: http://www.mybb-plugins.com
  *
@@ -21,7 +21,7 @@
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 	GNU General Public License for more details.
-	
+	sweag
 	You should have received a copy of the GNU General Public License
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ****************************************************************************/
